@@ -344,6 +344,8 @@ main .container{
 }
 
 	
-
+.arrow{
+	position:relative;
+	top:10px;
 	}
 
